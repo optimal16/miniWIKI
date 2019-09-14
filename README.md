@@ -1,2 +1,0 @@
-# miniWIKI
-create My WiKi
