@@ -1,6 +1,7 @@
-site_name: My Docs
+site_name: 学习笔记
 theme:
   name: 'material'
 nav:
-    - Home: index.md
-    - First: start.md
+    - 目录: index.md
+    - 编程规范: codeStyle.md
+    - caffe解析: caffe.md
