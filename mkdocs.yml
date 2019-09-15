@@ -5,3 +5,4 @@ nav:
     - 目录: index.md
     - 编程规范: codeStyle.md
     - caffe解析: caffe.md
+    - 图像处理: caffe.md
